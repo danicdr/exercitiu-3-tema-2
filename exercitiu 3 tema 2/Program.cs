@@ -23,6 +23,6 @@ namespace MyFirstProgram2._1
 
 
         }
-    }
+    }//Să se scrie un program care citeşte de la tastatură un şir de n numere naturale şi determină media aritmetică a celor pare, n fiind citit de la tastatura
 
 }
